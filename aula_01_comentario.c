@@ -1,11 +1,13 @@
 #include <stdio.h>
 
-int main(){
+int main() {
     
-    //comentario de uma linha
+    // Comentário de uma linha
     
-    /* comentario de multiplas 
-    linhas
-    */
- return 0;
+    /*
+     * Comentário de múltiplas 
+     * linhas
+     */
+    
+    return 0;
 }
