@@ -2,7 +2,7 @@
 
 int main(){
     
-    //comentario de uma linha.
+    //comentario de uma linha
     
     /* comentario de multiplas 
     linahs
