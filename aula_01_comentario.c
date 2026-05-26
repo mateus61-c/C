@@ -5,7 +5,7 @@ int main(){
     //comentario de uma linha
     
     /* comentario de multiplas 
-    linahs
+    linhas
     */
  return 0;
 }
