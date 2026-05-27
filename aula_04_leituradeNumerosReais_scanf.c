@@ -5,8 +5,8 @@ int main(void) {
   float num1, num2;
 
   // atribuir valor a variavel
-  num1 = 2,15;
-  num2 = 7,54;
+  num1 = 2.15;
+  num2 = 7.54;
 
   // imprimir o valor real das variaveis
   printf("%f\n%f\n", num1, num2);
